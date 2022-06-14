@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-13T17:32:05 IST" name="Default suite" finished-at="2022-06-13T17:32:24 IST" duration-ms="19308">
+    <groups>
+    </groups>
+    <test started-at="2022-06-13T17:32:05 IST" name="Default test" finished-at="2022-06-13T17:32:24 IST" duration-ms="19308">
+      <class name="seleniumDemo.Flipcard">
+        <test-method signature="rating()[pri:0, instance:seleniumDemo.Flipcard@7fee8714]" started-at="2022-06-13T17:32:05 IST" name="rating" finished-at="2022-06-13T17:32:24 IST" duration-ms="19249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rating -->
+      </class> <!-- seleniumDemo.Flipcard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
