@@ -69,7 +69,7 @@ public class AmazonBuy {
 		continueTo.click();
 		
 		WebElement password = driver.findElement(By.xpath("//*[@id='ap_password']"));
-		password.sendKeys("ramsenthilit33");
+		password.sendKeys("**************");
 		
 		WebElement signIn = driver.findElement(By.xpath("//*[@id='signInSubmit']"));
 		signIn.click();
